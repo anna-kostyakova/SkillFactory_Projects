@@ -1,5 +1,5 @@
 # SkillFactory_Projects
-Projects for SkillFactory DST module_1
+Project for SkillFactory DST module_1
 ## Задача проекта:
 Провести анализ данных датасета, написать код для решения вопросов в викторине.
 ## Количество набранных в викторине баллов:
