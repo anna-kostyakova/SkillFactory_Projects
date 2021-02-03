@@ -32,4 +32,4 @@ Projects for SkillFactory DST
 
 ### MAE по результатам: 0.1626875
 ### Kaggle Public Leaderboard: 36 место на 3 февраля (MAE: 0.16945)
-### Ник на Kaggle - Anna Kostyakova
+### Ник на Kaggle - Anna Kostyakova (annakostyakova)
