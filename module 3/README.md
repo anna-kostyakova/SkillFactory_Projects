@@ -30,4 +30,5 @@ Projects for SkillFactory DST
 - Data Preprocessing
 - Построение модели
 
-## MAE по результатам: 0.1626875
+### MAE по результатам: 0.1626875
+### Kaggle Public Leaderboard: 36 место на 3 февраля (MAE: 0.16945)
