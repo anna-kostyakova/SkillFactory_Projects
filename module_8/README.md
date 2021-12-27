@@ -4,7 +4,6 @@ Projects for SkillFactory DST
 # Project - Car classification
 - [Anna Kostyakova](https://github.com/anna-kostyakova)
 - Ник на leaderboard Kaggle - Anna Kostyakova 
-- [Ссылка на папку с данными](https://drive.google.com/drive/folders/1ghbdt3hYx8V02-7KqcEI73X8uVkqgQQZ?usp=sharing)
 
 ### Public score on Kaggle.com - 0.96838
 
